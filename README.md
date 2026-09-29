@@ -1,1 +1,1 @@
-PyTorch tasks, pet projects and practice
+PyTorch tasks, pet projects and some practice
